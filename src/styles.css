@@ -1,0 +1,23 @@
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  border: 2px solid greenyellow;
+  width: 50vw;
+  margin: 0 auto;
+}
+button {
+  background-color: aquamarine;
+  font-size: 2rem;
+  margin: 1rem;
+  width: 50px;
+  border: none;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: blueviolet;
+}
+button:active {
+  background-color: yellow;
+}
